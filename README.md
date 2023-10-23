@@ -14,7 +14,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soneryesilay&" alt="soneryesilay" /></p>
 
 
-![snake gif](https://github.com/soneryesilay/soneryesilay/blob/output/github-contribution-grid-snake.gif)
+[![snake gif](https://github.com/soneryesilay/soneryesilay/blob/output/github-contribution-grid-snake.gif)]
+
+
 
 
 
