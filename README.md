@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Soner Yesilay</title>
+
 </head>
 <body style="background-color: #ffffff; color: #000000; font-family: Arial, sans-serif;">
 <h1 align="center" style="color: #0366d6;">Soner Yesilay</h1>
