@@ -26,10 +26,25 @@
 ![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&show_icons=true&locale=en&layout=compact" alt="soneryesilay" /></p>
+<p align="center">
+ <a href="https://github.com/soneryesilay">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&theme=radical&border=7F3FBF&background=0D1117" alt="soneryesilay" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soneryesilay&show_icons=true&locale=en" alt="soneryesilay" /></p>
+<p align="center">
+  <a href="https://github.com/soneryesilay">
+<img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&theme=radical" alt="soneryesilay" />
+ </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soneryesilay&" alt="soneryesilay" /></p>
+<p align="center">
+  <a href="https://github.com/soneryesilay">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soneryesilay&theme=radical" alt="soneryesilay" />
+ </a>
+</p>
+
+
+
 </body>
 </html>
