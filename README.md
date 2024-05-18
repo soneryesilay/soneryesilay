@@ -8,13 +8,14 @@
 <body style="background-color: #ffffff; color: #000000; font-family: Arial, sans-serif;">
 <h1 align="center" style="color: #0366d6;">Soner Yesilay</h1>
 <p align="center">
- <a href="https://linkedin.com/in/soneryesilay" target="_blank">
+  <a href="https://linkedin.com/in/soneryesilay" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soneryesilay"/>
- </a>
- <a href="https://instagram.com/soneryesilay" target="_blank">
+  </a>
+  <a href="https://instagram.com/soneryesilay" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="soneryesilay" />
- </a> 
+  </a>  
 </p>
+
 <br />
   
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
