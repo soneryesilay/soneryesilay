@@ -8,7 +8,7 @@
 <body style="background-color: #ffffff; color: #000000; font-family: Arial, sans-serif;">
 <h1 align="center" style="color: #0366d6;">Soner Yesilay</h1>
 <p align="center">
- <a href="https://linkedin.com/in/soner-yeşilay-0838532a6/" target="_blank">
+ <a href="https://linkedin.com/in/soneryesilay" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soneryesilay"/>
  </a>
  <a href="https://instagram.com/soneryesilay" target="_blank">
