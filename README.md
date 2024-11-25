@@ -18,7 +18,9 @@
 
 <br />
   
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+</div>
 
 <p align="center">
  <a href="https://github.com/soneryesilay">
