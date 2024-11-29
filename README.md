@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter** to expand my skills in cross-platform mobile development.  
 - 💬 Ask me about **.NET**, **C#**, and **backend architecture**.  
-- ⚡ Fun fact: I love combining creativity with coding to build innovative solutions.  
+- ⚡I love combining creativity with coding to build innovative solutions.  
 
 ---
 
