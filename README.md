@@ -9,8 +9,6 @@
 - ⚡I love combining creativity with coding to build innovative solutions.  
 
 
----
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
   
