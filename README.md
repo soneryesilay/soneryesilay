@@ -1,5 +1,5 @@
-<h1 align="center">I'm Soner</h1>
-<h3 align="center">Back-End Developer Since 2022</h3>
+<h1 align="center">Soner Yesilay</h1>
+<h3 align="center">I'm a Back-End Developer since 2022</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20views&color=0e75b6&style=flat" alt="soneryesilay" /> </p>
 
