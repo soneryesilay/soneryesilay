@@ -1,4 +1,4 @@
-<h1 align="center">I'm Soner Yesilay</h1>
+<h1 align="center">I'm Soner YESILAY</h1>
 <h3 align="center">A Passionate Back-End Developer Since 2022</h3>
 
 <p align="center">
