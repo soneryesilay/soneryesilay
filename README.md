@@ -1,5 +1,4 @@
-<h1 align="center">I'm Soner YESILAY</h1>
-<h3 align="center">A Passionate Back-End Developer Since 2022</h3>
+<h1 align="center"> Soner YESILAY</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20Views&color=0e75b6&style=flat" alt="soneryesilay" />
