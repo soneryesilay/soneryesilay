@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20Views&color=0e75b6&style=flat" alt="soneryesilay" />
 </p>
 
-- 🌱 I’m currently learning **Flutter** to expand my skills in cross-platform mobile development.  
-- ⚡I love combining creativity with coding to build innovative solutions.  
 
 
 ## My Skill Set  
@@ -21,7 +19,6 @@
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" /></a> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>  
 
 </div>
 
