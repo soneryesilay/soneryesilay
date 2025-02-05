@@ -77,8 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&hide_border=true&layout=compact&theme=tokyonight" align="center" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soneryesilay&hide_border=true&theme=tokyonight" align="center" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soneryesilay&hide_border=true&theme=tokyonight)
+
 
 ---
