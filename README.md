@@ -10,7 +10,6 @@
 - 🔭 I'm currently working on improving my full-stack development skills
 - 🌱 I'm currently learning **Microservices Architecture and Cloud Technologies**
 - 👯 I'm looking to collaborate on **.NET Core and React projects**
-- 💬 Ask me about **React, .NET Core, and DevOps practices**
 - 📫 How to reach me: soneryesilay@outlook.com
 
 ## 🛠️ Tech Stack
