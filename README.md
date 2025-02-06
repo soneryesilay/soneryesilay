@@ -57,17 +57,11 @@
 
 ## 📊 Featured Projects
 
-### 🌟 E-Commerce Platform
-A full-stack e-commerce solution built with .NET Core and React
-- **Tech Stack**: .NET Core, React, SQL Server, Redis
+### 🌟 Car Repiar Reservation System
+A full-stack car repair reservation solution built with .NET Core and React
+- **Tech Stack**: .NET Core, MVC, MSSQL Server,
 - **Features**: User authentication, product management, shopping cart, payment integration
-- [View Project](https://github.com/soneryesilay?tab=repositories) <!-- Add your project link -->
-
-### 🚀 Task Management System
-A microservices-based task management application
-- **Tech Stack**: .NET Core, MongoDB, RabbitMQ, Docker
-- **Features**: Task creation, assignment, real-time notifications
-- [View Project](https://github.com/soneryesilay?tab=repositories) <!-- Add your project link -->
+- [View Project](https://github.com/soneryesilay/CarRepairReservationSystem-LoginPage) <!-- Add your project link -->
 
 ## 📈 GitHub Stats  
 
