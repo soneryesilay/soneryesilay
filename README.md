@@ -61,13 +61,13 @@
 A full-stack e-commerce solution built with .NET Core and React
 - **Tech Stack**: .NET Core, React, SQL Server, Redis
 - **Features**: User authentication, product management, shopping cart, payment integration
-- [View Project](#) <!-- Add your project link -->
+- [View Project](https://github.com/soneryesilay?tab=repositories) <!-- Add your project link -->
 
 ### 🚀 Task Management System
 A microservices-based task management application
 - **Tech Stack**: .NET Core, MongoDB, RabbitMQ, Docker
 - **Features**: Task creation, assignment, real-time notifications
-- [View Project](#) <!-- Add your project link -->
+- [View Project](https://github.com/soneryesilay?tab=repositories) <!-- Add your project link -->
 
 ## 📈 GitHub Stats  
 
