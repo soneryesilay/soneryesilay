@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soner YESILAY</h1>
+<h1 align="center">Hi 👋, I'm Soner </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20Views&color=0e75b6&style=flat" alt="soneryesilay" />
