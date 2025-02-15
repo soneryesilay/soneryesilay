@@ -4,12 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20Views&color=0e75b6&style=flat" alt="soneryesilay" />
 </p>
 
-<h3 align="center">A passionate Full Stack Developer from Turkey 🇹🇷</h3>
+<h3 align="center">A passionate Back-End Developer from Turkey 🇹🇷</h3>
 
 ## 🚀 About Me
 - 🔭 I'm currently working on improving my full-stack development skills
 - 🌱 I'm currently learning **Microservices Architecture and Cloud Technologies**
-- 👯 I'm looking to collaborate on **.NET Core and React projects**
 - 📫 How to reach me: soneryesilay@outlook.com
 
 ## 🛠️ Tech Stack
