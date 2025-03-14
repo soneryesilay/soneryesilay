@@ -56,7 +56,7 @@
 
 ### 🌟 Car Repiar Reservation System
 A full-stack car repair reservation solution built with .NET Core
-- **Tech Stack**: .NET Core Web API, AWS, MSSQL Server, React
+- **Tech Stack**: .NET Core Web API, AWS, MSSQL Server
 - **Features**: User authentication, product management, shopping cart, payment integration
 - [View Project](https://github.com/soneryesilay/CarRepairReservationSystem-LoginPage) <!-- Add your project link -->
 
