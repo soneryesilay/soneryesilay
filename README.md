@@ -71,7 +71,7 @@ A full-stack car repair reservation solution built with .NET Core
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soneryesilay&hide_border=true&theme=tokyonight" align="center" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=soneryesilay&theme=tokyo-night&hide_border=true&radius=8" alt="Soner Yeşilay'ın Aktivite Grafiği" />
 </div>
 
 ## 🤝 Connect With Me
