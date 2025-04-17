@@ -89,7 +89,6 @@ A full-stack car repair reservation solution built with .NET Core
 </div>
 
 ---
-⭐️ From [soneryesilay](https://github.com/soneryesilay)
 
 ![snake gif](https://github.com/soneryesilay/soneryesilay/blob/output/github-snake-dark.svg)
 
