@@ -112,34 +112,16 @@ Contact Point: soneryesilay@outlook.com
 ## PERFORMANCE METRICS
 
 <div align="center">
-
-```ascii
-┌─────────────────────────────────── SYSTEM ANALYTICS ───────────────────────────────────┐
-│                                                                                        │
-│                 CODE DATA                            USER ACTIVITY                     │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=soneryesilay&theme=github-dark&hide_border=true&radius=8" alt="Activity Timeline" />
 </div>
 
-<table width="100%">
-<tr>
-<td align="center" valign="top" width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" alt="Language Analytics" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" alt="Language Analytics" width="600px" />
 </div>
-</td>
-<td align="center" valign="top" width="50%">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Contribution Analytics" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Contribution Analytics" width="600px" />
 </div>
-</td>
-</tr>
-</table>
 
 ## NETWORK INTERFACES
 <div align="center">
