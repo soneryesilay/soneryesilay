@@ -116,11 +116,11 @@ Contact Point: soneryesilay@outlook.com
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" alt="Language Analytics" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" alt="Language Analytics" width="400px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Contribution Analytics" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Contribution Analytics" width="400px" />
 </div>
 
 ## NETWORK INTERFACES
