@@ -107,7 +107,7 @@ Contact Point: soneryesilay@outlook.com
 - **Infrastructure**: AWS Cloud Services
 - **Data Storage**: MSSQL Server
 - **Key Functionalities**: User authentication, service management, reservation system, payment integration
-- **Source Code**: [Access Repository]([https://github.com/soneryesilay?tab=repositories)
+- **Source Code**: [Access Repository](https://github.com/soneryesilay?tab=repositories)
 
 ## PERFORMANCE METRICS
 
