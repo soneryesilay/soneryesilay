@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20Views&color=0e75b6&style=flat" alt="soneryesilay" />
 </p>
 
-<h2 align="center"> Back-End Developer | Turkey 🇹🇷 </h2>
+<h2 align="center"> Software Developer | Turkey 🇹🇷 </h2>
 
 <div align="center">
   
