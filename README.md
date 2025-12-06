@@ -1,141 +1,124 @@
-<h1 align="center">SONER YESILAY</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Profile%20Views&color=0e75b6&style=flat" alt="soneryesilay" />
-</p>
-
-<h2 align="center"> Software Developer | Turkey 🇹🇷 </h2>
-
 <div align="center">
-  
-```ascii
-┌───────────────────────────────────────────────┐
-│                  DIGITAL IDENTITY              │
-└───────────────────────────────────────────────┘
-```
+  <h1>Soner Yeşilay</h1>
 
-</div>
+  <div><b>Software Developer • QA &amp; Test Automation</b></div>
+  <div>Istanbul, Türkiye • <a href="mailto:soneryesilay@outlook.com">soneryesilay@outlook.com</a></div>
 
-## SYSTEM STATUS
-```
-Current Focus: Advancing full-stack development capabilities
-Learning Path: Microservices Architecture & Cloud Technologies
-Contact Point: soneryesilay@outlook.com
-```
+  <div><br/></div>
 
-## TECH MATRIX
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────── SYSTEM CAPABILITIES ───────────────────────────────────┐
-│                                                                                           │
-│               FRONTEND                   BACKEND                    DEVOPS                │
-└───────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
-
-### [ FRONTEND ]  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a> 
-</div>
-</td>
-<td valign="top" width="33%">
-
-### [ BACKEND ]  
-<div align="center">  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-<a href="https://redis.io" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="40" /></a>
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="40" /></a>
-</div>
-</td>
-<td valign="top" width="33%">
-
-### [ DEVOPS ]  
-<div align="center">  
-<a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a> 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" /></a> 
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-</div>
-</td>
-</tr>
-<tr>
-<td valign="top" width="100%" colspan="3">
-
-<h3 align="center">[ TOOLS ]</h3>
-<div align="center">
-<a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" /></a>
-<a href="https://filezilla-project.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="FileZilla" height="40" /></a>
-</div>
-</td>
-</tr>
-</table>
-
-## FEATURED PROJECTS
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                CAR REPAIR RESERVATION SYSTEM                     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### SYSTEM ARCHITECTURE
-- **Core Framework**: .NET Core Web API
-- **Infrastructure**: AWS Cloud Services
-- **Data Storage**: MSSQL Server
-- **Key Functionalities**: User authentication, service management, reservation system, payment integration
-- **Source Code**: [Access Repository](https://github.com/soneryesilay?tab=repositories)
-
-## PERFORMANCE METRICS
-
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=soneryesilay&theme=github-dark&hide_border=true&radius=8" alt="Activity Timeline" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soneryesilay&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&layout=compact&langs_count=8" alt="Language Analytics" width="400px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soneryesilay&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Contribution Analytics" width="400px" />
-</div>
-
-## NETWORK INTERFACES
-<div align="center">
-  <a href="https://linkedin.com/in/soneryesilay" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=663399" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/23093350" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=663399" alt="Stack Overflow" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/soneryesilay" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=663399" alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
+  <div>
+    <a href="https://linkedin.com/in/soneryesilay">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-soneryesilay-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/23093350">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-23093350-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@soneryesilay">
+      <img alt="Medium" src="https://img.shields.io/badge/Medium-@soneryesilay-000000?style=flat&logo=medium&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 ---
 
-![system trace](https://github.com/soneryesilay/soneryesilay/blob/output/github-snake-dark.svg)
+## About
+I’m a software developer who builds end-to-end products — from backend APIs to frontend UIs — with a strong focus on quality and maintainability.  
+I also contribute on the QA side with solid test design and automation where it adds real value.
 
+## What I do
+- Backend development: APIs, data models, business logic, authentication
+- Frontend development: responsive UIs and clean user flows
+- Data: SQL-first mindset (schema + queries), plus NoSQL when needed
+- QA: test design, debugging, regression discipline, automation for stability
+
+## Tech stack
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+
+### Development
+<p>
+  <img alt="HTML5" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="React" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Next.js" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img alt="Tailwind CSS" height="26" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" />
+</p>
+
+- JavaScript / TypeScript, React, Next.js
+- HTML / CSS, Tailwind CSS
+
+    </td>
+    <td valign="top" width="50%">
+
+### Backend and data
+<p>
+  <img alt="C#" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt=".NET" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="SQL Server" height="26" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+  <img alt="MySQL" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="MongoDB" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img alt="Redis" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
+  <img alt="RabbitMQ" height="26" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
+</p>
+
+- C# / .NET (ASP.NET Core), REST APIs
+- SQL (MSSQL), plus MySQL and MongoDB
+- Redis, RabbitMQ
+- Swagger/OpenAPI, auth flows (JWT), ORM usage (EF Core)
+
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+
+### Quality and testing
+<p>
+  <img alt="Python" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Android" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
+  <img alt="Postman" height="26" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img alt="Selenium" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
+</p>
+
+- Appium (UiAutomator2) for mobile E2E
+- Pytest (Python testing)
+- API testing (Postman)
+- OCR-based checks when needed (UI verification / text extraction)
+- Debugging and log-driven issue reproduction
+
+    </td>
+    <td valign="top" width="50%">
+
+### Tools
+<p>
+  <img alt="Git" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img alt="GitHub" height="26" src="https://skillicons.dev/icons?i=github&theme=light" />
+  <img alt="GitHub Actions" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
+  <img alt="Docker" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Linux" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="VS Code" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img alt="Jira" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" />
+  <img alt="Trello" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" />
+</p>
+
+- Git/GitHub, CI pipelines (GitHub Actions)
+- Docker, Linux
+- VS Code, Jira, Trello
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soneryesilay&label=Views&style=flat" alt="profile views" />
+</p>
+
+![snake](https://github.com/soneryesilay/soneryesilay/blob/output/github-snake-dark.svg)
