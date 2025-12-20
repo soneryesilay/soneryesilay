@@ -45,12 +45,14 @@ I also contribute on the QA side with solid test design and automation where it 
   <img alt="CSS3" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img alt="JavaScript" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="Kotlin" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
   <img alt="React" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img alt="Next.js" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img alt="Tailwind CSS" height="26" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" />
 </p>
 
 - JavaScript / TypeScript, React, Next.js
+- Kotlin, Jetpack Compose (Android)
 - HTML / CSS, Tailwind CSS
 
     </td>
